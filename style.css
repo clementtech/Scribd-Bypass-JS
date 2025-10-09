@@ -1,3 +1,22 @@
-#input {
+body {
     align-items: center;
+    text-align: center;
+}
+
+.input #link #scribd_original_link {
+    width: 500px;
+    height: 30px;
+    border: 2px solid black;
+    border-radius: 25px;
+}
+
+.input #submit {
+    width: 80px;
+    height: 30px;
+    border: 2px solid black;
+    border-radius: 25px;
+}
+
+.input #submit:hover {
+    background-color: aliceblue;
 }
